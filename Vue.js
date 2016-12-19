@@ -1,4 +1,4 @@
-/*!
+/*!http://cn.vuejs.org/v2/guide/index.html
  * Vue.js v2.1.6
  * (c) 2014-2016 Evan You
  * Released under the MIT License.

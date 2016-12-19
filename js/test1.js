@@ -20,3 +20,15 @@ function clickevent() {
  		seen:true
  	}
  });
+
+
+var app2=new Vue({
+	el:"#app-2",
+	data:{
+		todos:[
+		{text:"hello text1"},
+		{text:"hello text2"},
+		{text:"hello text3"},
+		]
+	}
+});
